@@ -7,7 +7,10 @@
 
 ## 🎯 Overview
 
-TMG Suite is a collection of integrated tools designed to enhance and automate workflows in The Master Genealogist (TMG), a genealogy software. It provides three main functionalities through a unified graphical interface.
+TMG Suite automates the import of genealogical data from **Family Historian (FH) to The Master Genealogist (TMG)** through three integrated tools and a unified graphical interface.
+
+**Primary source:** Family Historian GEDCOM exports  
+**Potential compatibility:** Other GEDCOM sources (RootsMagic, etc.) if they include `_SHAR` witness tags and proper `REFN` references *(to be tested)*
 
 ## ✨ Features
 
