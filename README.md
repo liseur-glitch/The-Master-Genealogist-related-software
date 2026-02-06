@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Developed with Claude (Anthropic) for genealogy research
+- Developed with Claude (Anthropic) and ChatGpt for genealogy research
 - Inspired by the TMG user community
 - Based on extensive testing with real genealogical databases
 
