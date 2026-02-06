@@ -255,7 +255,7 @@ Pour toute question :
 
 ## 📜 LICENCE
 
-Développé par Claude (Anthropic) pour Olivier
+Développé par Olivier avec l'aide de Claude (Anthropic) et Chatgpt
 Usage personnel et professionnel autorisé
 
 ## 🔄 CHANGELOG
