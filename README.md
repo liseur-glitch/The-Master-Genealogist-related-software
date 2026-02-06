@@ -22,7 +22,6 @@ Imports witnesses from Family Historian to TMG.
 - Uses GEDCOM + mapping.json
 - Automatic backup before modifications
 - Handles self-referencing witnesses
-- Year matching (±5 years tolerance)
 
 ### 3. **Sentence Injection** ✨ NEW in v3.0
 Automatically generates and injects sentence structures for all custom TMG tags.
