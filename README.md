@@ -142,11 +142,14 @@ File > Export GEDCOM
 ### Main Interface
 ![Main Interface](docs/images/main-interface.png)
 
-### Mapping Tool
-![Mapping Tool](docs/images/mapping-excel.png)
-
 ### Help Menu
 ![Help Menu](docs/images/help-menu.png)
+
+### Before Injection
+![Before Injection](docs/images/before injection.png)
+
+### After Injection
+![Help Menu](docs/images/after injection.png)
 
 </details>
 
